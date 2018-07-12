@@ -1,0 +1,18 @@
+@using BestRestaurant.Models;
+
+<h2>Add a restaurant</h2>
+<form action="/restaurants" method="post">
+  <label for="newRestaurant">Restaurant name:</label>
+  <input type="text" name="newRestaurant">
+<label for="cuisineId">What type of Cuisine?</label>
+<select class="cuisinseSelect" name="cuisineId">
+  @foreach(var cuisine in Cuisine.GetAll())
+  {
+    <option value="@cuisine.GetId()">@cuisine.GetCuisine()</option>
+  }
+
+</select>
+<label for="rating">Rating (1-5)</label>
+<input type="text" name="rating">
+<button type="submit" name="button">Add!</button>
+</form>

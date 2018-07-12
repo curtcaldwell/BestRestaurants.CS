@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant/bin/Debug/netcoreapp1.1/BestRestaurant.deps.json
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant/bin/Debug/netcoreapp1.1/BestRestaurant.runtimeconfig.json
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant/bin/Debug/netcoreapp1.1/BestRestaurant.runtimeconfig.dev.json
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant/obj/Debug/netcoreapp1.1/BestRestaurant.AssemblyInfo.cs
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant/bin/Debug/netcoreapp1.1/BestRestaurant.dll
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant/bin/Debug/netcoreapp1.1/BestRestaurant.pdb
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant/obj/Debug/netcoreapp1.1/BestRestaurant.dll
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant/obj/Debug/netcoreapp1.1/BestRestaurant.pdb

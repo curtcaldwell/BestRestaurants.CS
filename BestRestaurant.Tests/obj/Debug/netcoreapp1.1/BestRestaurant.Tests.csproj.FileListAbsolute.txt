@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/BestRestaurant.Tests.deps.json
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/BestRestaurant.Tests.runtimeconfig.json
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/BestRestaurant.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/obj/Debug/netcoreapp1.1/BestRestaurant.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/BestRestaurant.Tests.dll
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/BestRestaurant.Tests.pdb
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/BestRestaurant.dll
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/bin/Debug/netcoreapp1.1/BestRestaurant.pdb
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/obj/Debug/netcoreapp1.1/BestRestaurant.Tests.dll
+/Users/Guest/Desktop/BestRestaurant.Solution/BestRestaurant.Tests/obj/Debug/netcoreapp1.1/BestRestaurant.Tests.pdb

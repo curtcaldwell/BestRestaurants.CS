@@ -1,0 +1,27 @@
+<head>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+
+
+<h2>Cuisine List</h2>
+<ul>
+@foreach (var cuisine in Model)
+{
+  <li>@cuisine.GetCuisine() | <a href="/cuisines" class="deleteAction" id="@cuisine.GetId()">Delete</a></li>
+}
+</ul>
+
+<form id="secret-form" action="/cuisine/delete" method="post">
+  <input type="hidden" name="cuisineId" value="">
+</form>
+
+<script type="text/javascript">
+  $("#secret-form").hide();
+  $(document).ready(function() {
+    $("a.deleteAction").click(function(event) {
+      event.preventDefault();
+      $("form#secret-form input").val(this.id);
+      $("form#secret-form").submit();
+    })
+  })
+</script>
